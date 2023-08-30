@@ -1,0 +1,8 @@
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\bin\Debug\RevisandoMatriz.exe.config
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\bin\Debug\RevisandoMatriz.exe
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\bin\Debug\RevisandoMatriz.pdb
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\obj\Debug\RevisandoMatriz.csproj.AssemblyReference.cache
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\obj\Debug\RevisandoMatriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\obj\Debug\RevisandoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\obj\Debug\RevisandoMatriz.exe
+C:\Users\Kauan\Desktop\CURSO_C#\RevisandoMatriz\obj\Debug\RevisandoMatriz.pdb
